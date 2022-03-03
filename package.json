@@ -1,9 +1,12 @@
 {
+  "homepage": "https://stelar3023.github.io/bank-smartcontract",
   "name": "bank-smartcontract",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -14,6 +17,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.0",
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "^5.0.0",
