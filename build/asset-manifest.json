@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bank-smartcontract/static/css/main.19b45e10.css",
+    "main.js": "/bank-smartcontract/static/js/main.1febfa63.js",
+    "index.html": "/bank-smartcontract/index.html",
+    "main.19b45e10.css.map": "/bank-smartcontract/static/css/main.19b45e10.css.map",
+    "main.1febfa63.js.map": "/bank-smartcontract/static/js/main.1febfa63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19b45e10.css",
+    "static/js/main.1febfa63.js"
+  ]
+}
